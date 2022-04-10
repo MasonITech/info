@@ -1,8 +1,7 @@
-                                                                 Hello!
-                                                             My name is Mason!
-                       I started this tech buisseius becuase i know that now more than ever with computers on the rise,
-                                                      people need tech support and IT help!
-                                        I do not only tech diagnosis but computer cleaning and building!
+Hello!
+My name is Mason!
+I started this tech buisseius becuase i know that now more than ever with computers on the rise, people need tech support and IT help!
+I do not only tech diagnosis but computer cleaning and building!
                                                         
                                                         
                                                         
@@ -26,7 +25,6 @@ Computer repair: Anywhere from 10$ - 100$
 
 
 
-
-                                                                    CONTACT ME!
-                                                             EMAIL: masonewysong@gmail.com
+CONTACT ME!
+EMAIL: masonewysong@gmail.com
                                                                          
